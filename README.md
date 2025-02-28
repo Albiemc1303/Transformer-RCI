@@ -3,7 +3,7 @@ Transformer RCI, is an attempt to design and develop a new novel transformer spe
 
 # Minimal Prototype Reasoning Engine (v0.1) - Project Transformer
 
-[![Project Status](https://img.shields.io/badge/Status-Completed_v0.1_Prototype-brightgreen.svg)](https://)  [![Python Version](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/) [![License](https://img.shields.io/badge/License-Apache-2.0 - Lightgrey.svg)](https://opensource.org/licenses/Apache-2.0) ## Project Description
+[![Project Status](https://img.shields.io/badge/Status-Completed_v0.1_Prototype-brightgreen.svg)](https://)  [![Python Version](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/) [![License](https://img.shields.io/badge/License-Apache-2.0)](https://opensource.org/licenses/Apache-2.0) ## Project Description
 
 This repository contains the code for a **Minimal Prototype Reasoning Engine (v0.1)**, developed as part of "Project Transformer RCI."  This prototype demonstrates a basic end-to-end system for answering simple mathematical problems in natural language. It integrates several key components, including:
 
@@ -41,7 +41,7 @@ For this input, the prototype successfully:
 
 **How to Run the Prototype:**
 
-1.  **Clone this repository:** `git clone [repository URL]` 
+1.  **Clone this repository:** `git clone [https://github.com/Albiemc1303/Transformer-RCI]` 
 2.  **Set up a Python virtual environment (recommended):** `python -m venv .venv` and activate it (e.g., `.venv\Scripts\activate` on Windows, `source .venv/bin/activate` on Linux/macOS).
 3.  **Install required Python packages:** `pip install -r requirements.txt` 
 4.  **Run the main script:** `python reasoning_engine_prototype.py`
@@ -74,6 +74,7 @@ Planned enhancements and future versions include:
 
 **License:**
 
+Apache-2.0 
 
 **Contact/Author:**
 
