@@ -74,7 +74,7 @@ Planned enhancements and future versions include:
 
 **License:**
 
-[Apache-2.0] 
+([Apache-2.0] License.txt)
 
 **Contact/Author:**
 
