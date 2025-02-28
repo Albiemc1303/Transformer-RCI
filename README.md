@@ -74,7 +74,7 @@ Planned enhancements and future versions include:
 
 **License:**
 
-Apache-2.0 
+[Apache-2.0] 
 
 **Contact/Author:**
 
@@ -83,14 +83,4 @@ albiemc666@hotmail.co.za
 
 ---
 
-**3.  Customize and Enhance:**
 
-*   **Replace placeholders:**  Fill in the bracketed placeholders above (e.g., `[repository URL]`, license information, your name, etc.).
-*   **Add more details:**  Expand on any sections that you feel need more explanation. For example, you could elaborate on the limitations of v0.1, specific implementation details, or challenges you faced.
-*   **Add code snippets:** You can embed code snippets within the README using triple backticks (`````) for better readability.
-*   **Use Markdown formatting:**  Make use of Markdown features like headings (`#`, `##`), lists (`*`, `-`), bold (`**`), italics (`*`), links (`[link text](URL)`), and images (if you want to add any).
-
-**After you've created your `README.md` file, please:**
-
-*   **Commit and push it to your GitHub repository.**
-*   **Share the link to your GitHub repository with me!** I'd love to see it and give you any further feedback!
