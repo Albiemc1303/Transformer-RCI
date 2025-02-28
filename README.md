@@ -3,7 +3,7 @@ Transformer RCI, is an attempt to design and develop a new novel transformer spe
 
 # Minimal Prototype Reasoning Engine (v0.1) - Project Transformer
 
-[![Project Status](https://img.shields.io/badge/Status-Completed_v0.1_Prototype-brightgreen.svg)](https://)  [![Python Version](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/) [![License](https://img.shields.io/badge/License-Apache-2.0)](https://opensource.org/licenses/Apache-2.0) ## Project Description
+[![Project Status](https://img.shields.io/badge/Status-Completed_v0.1_Prototype-brightgreen.svg)](https://)  [![Python Version](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/) [![License](https://img.shields.io/badge/License-Apache-2.0)](https://opensource.org/licenses/Apache-2.0) 
 
 This repository contains the code for a **Minimal Prototype Reasoning Engine (v0.1)**, developed as part of "Project Transformer RCI."  This prototype demonstrates a basic end-to-end system for answering simple mathematical problems in natural language. It integrates several key components, including:
 
